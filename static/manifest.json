@@ -1,7 +1,7 @@
 {
   "name": "Anaweb",
   "short_name": "Anaweb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icons": [
     {
       "src": "/anaweb/static/img/icons/android-chrome-192x192.png",

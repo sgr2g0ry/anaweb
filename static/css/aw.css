@@ -1,0 +1,29 @@
+@import url("http://fonts.googleapis.com/css?family=Fredoka+One");
+
+/* aw personnalisation */
+.fredoka {
+	font: 48px "Fredoka One", Helvetica, Arial, sans-serif;
+	text-transform: capitalize;
+}
+
+#copyright {
+	color: #fff;
+}
+
+#footer {
+	background-color: #fff;
+}
+
+/* Firebase login */
+.firebaseui-card-content {
+	width: 100%;
+}
+
+.firebaseui-card-content form {
+	width: 100%;
+	margin: 0;
+}
+
+.firebaseui-idp-list {
+	width: 100%;
+}
